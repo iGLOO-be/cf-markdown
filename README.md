@@ -5,7 +5,7 @@ Markdown-to-html for Coldfusion with [Markdown.js](https://github.com/evilstreak
 
 ### Constructor
 
-Constructor have no parameters.
+Constructor have no parameter.
 
 ```
 markdown = new Markdown();
